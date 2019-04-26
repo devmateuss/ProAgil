@@ -12414,23 +12414,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mateus Sousa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/mateus/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet estudos\\.Net Core - API\\ProAgil.API\\ProAgil.API.csproj",
+      "projectUniqueName": "/Users/mateus/Documents/ProAgil/ProAgil.API.csproj",
       "projectName": "ProAgil.API",
-      "projectPath": "D:\\dotnet estudos\\.Net Core - API\\ProAgil.API\\ProAgil.API.csproj",
-      "packagesPath": "C:\\Users\\Mateus Sousa\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet estudos\\.Net Core - API\\ProAgil.API\\obj\\",
+      "projectPath": "/Users/mateus/Documents/ProAgil/ProAgil.API.csproj",
+      "packagesPath": "/Users/mateus/.nuget/packages/",
+      "outputPath": "/Users/mateus/Documents/ProAgil/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mateus Sousa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/mateus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
